@@ -45,7 +45,7 @@ Scores are stored using `localStorage`, so they remain saved even after refreshi
 ##  How to Run
 
 1. Clone or download the repository  
-2. Open  `RPSgame.html` in your browser  
+2. Open  `index.html` in your browser  
 
 ---
 
